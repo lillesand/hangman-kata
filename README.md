@@ -17,3 +17,4 @@ For å komme i gang:
     `jasmine-node specs`. **NB: Testfilene dine må slutte på `.spec.js` for at jasmine skal finne dem!**
   1. Sett opp jasmine-node til å kjøre testene dine automatisk:
     `jasmine-node specs --autotest`
+  1. **POW!**
