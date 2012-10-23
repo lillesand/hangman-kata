@@ -1,7 +1,9 @@
+require('../lib/hangman.js');
+
 describe('hangman', function() {
     
     it('should run', function() {
-       expect(true).toBe(true); 
+       expect(hangman.hello()).toBe("hang man"); 
     });
     
 });
